@@ -10,7 +10,9 @@ Repositório para realização da atividade do cp4 na disciplina de IoT.
 
 ## ORIENTAÇÕES GERAIS:
 
-- Link dos datasets: https://fiapcom-my.sharepoint.com/:t:/g/personal/pf1745_fiap_com_br/EYxjAa7H-8FBtku44iW24e4BmYU_XszbVi32oyLGJYodOg?e=w1A4ob | https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
+- Link dos datasets:
+- Questão 1 a 25: https://fiapcom-my.sharepoint.com/:t:/g/personal/pf1745_fiap_com_br/EYxjAa7H-8FBtku44iW24e4BmYU_XszbVi32oyLGJYodOg?e=w1A4ob
+- Questão 26 a 40: https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
 - Ao rodar o notebook no colab, upar os arquivos para manipulação dos dados.
 
 ---
