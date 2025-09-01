@@ -2,7 +2,7 @@
 Repositório para realização da atividade do cp4 na disciplina de IoT.
 
 ## Alunos
--  Gustavo de Auiar Lima Silva  -  RM557707
+-  Gustavo de Aguiar Lima Silva  -  RM557707
 -  Julio Cesar Conceição Rodrigues -  RM557298
 -  Matheus de Freitas Silva -  RM552602
  
